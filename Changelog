@@ -1,44 +1,33 @@
-Changelog:
 
-02/02/2023
 
-SpiceOS v6.3 - Unnoficial | Android 13
+------15/02/2023------
 
-First Unnoficial build of my property
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro (sweet/sweetin)
+Device maintainer: JYR_RC
 
-Not miui leica cam,Aperure Cam
 
-Latest kernel Omnitrix version
+Latest kernel Aghisna version R5
 
-Added One Plus Dolby Atmos
+Update blobs 13.0.17.0.
 
-Codecs Audio One Plus 8
+Update Codecs Audio One Plus 8.
 
-Add Missing Media Codecs
+Add Missing Media Codecs.
 
-Import OzoProcessing From Miui Alioth
+Refresh Rate In Devicessetings.
 
-Sound Dirac Hifi
+Refresh Rate Profiles.
 
-Refresh Rate Profiles App In Devicessetings
+Attenuation CC.
 
-High refresh Rate
+Thermal Profiles.
 
-Dc Dimming
+Sound Dirac.
 
-Live Display
+Clear Speaker.
 
-Thermal Profiles
+OrangeFox Recovery Recommended.
 
-Mi Sound Enhancer Hi-FI
-
-OrangeFox Recovery Recommended
-
-Credits:
-
-@franlop77 For tree And Help
-
-@SATORU_GOJO_Y For Kernel
-
-@jimgsey For Help
-
+Clean install is recommended.
